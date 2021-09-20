@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1390767298 source:c:\users\daniel\desktop\uni\prozedurale programmierung\proc_projekt\ki.c
+	"game.h"
+
+1390941998 c:\users\daniel\desktop\uni\prozedurale programmierung\proc_projekt\game.h
+	<stdlib.h>
+	<stdio.h>
+	<SDL_ttf.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"SDL.h"
+
+1390942006 source:c:\users\daniel\desktop\uni\prozedurale programmierung\proc_projekt\main.c
+	"game.h"
+
+1390939802 source:c:\users\daniel\desktop\uni\prozedurale programmierung\proc_projekt\player.c
+	"game.h"
+
+1390770898 source:c:\users\daniel\desktop\uni\ws13 14\prozedurale programmierung\proc_projekt\ki.c
+	"game.h"
+
+1390945598 c:\users\daniel\desktop\uni\ws13 14\prozedurale programmierung\proc_projekt\game.h
+	<stdlib.h>
+	<stdio.h>
+	<SDL_ttf.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"SDL.h"
+
+1390945606 source:c:\users\daniel\desktop\uni\ws13 14\prozedurale programmierung\proc_projekt\main.c
+	"game.h"
+
+1390943402 source:c:\users\daniel\desktop\uni\ws13 14\prozedurale programmierung\proc_projekt\player.c
+	"game.h"
+
